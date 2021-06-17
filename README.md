@@ -4,11 +4,11 @@
 
 ### 1. ООП. Базовый уровень. (Модификаторый доступа. Наследование. Абстрактный класс). [Домашняя работа № 1.](https://github.com/casper91044/geekbrains-java-cours/tree/master/src/main/java/com/geekbrains/homeworks/homework1)
 
-### 2. ООП. Продвинутый уровень. (Интерфейсы. Перечисления (Enums). Ананимные и вложенные классы). Домашняя работа № 2.
+### 2. ООП. Продвинутый уровень. (Интерфейсы. Перечисления (Enums). Ананимные и вложенные классы). [Домашняя работа № 2.](https://github.com/casper91044/geekbrains-java-cours/tree/master/src/main/java/com/geekbrains/homeworks/homework2)
 
-### 3. Исключения. Домашняя работа № 3.
+### 3. Исключения. [Домашняя работа № 3.](https://github.com/casper91044/geekbrains-java-cours/tree/master/src/main/java/com/geekbrains/homeworks/homework3)
 
-### 4. Обощения, Коллекции. Домашняя работа № 4.
+### 4. Обощения, Коллекции. [Домашняя работа № 4.](https://github.com/casper91044/geekbrains-java-cours/tree/master/src/main/java/com/geekbrains/homeworks/homework4)
 
 ### 5. Коллекции. Часть 2. Домашняя работа № 5.
 
